@@ -1,0 +1,10 @@
+{
+  "model_name": "模型B",
+  "total_samples": 10,
+  "positive_samples": 6,
+  "negative_samples": 4,
+  "correct_positive_predictions": 6,
+  "correct_negative_predictions": 1,
+  "positive_label_name": "恶性肿瘤",
+  "negative_label_name": "良性肿瘤"
+}
